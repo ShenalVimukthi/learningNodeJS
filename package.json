@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenalVimukthi/learningNodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShenalVimukthi/learningNodeJS/issues"
+  },
+  "homepage": "https://github.com/ShenalVimukthi/learningNodeJS#readme",
+  "description": ""
 }
